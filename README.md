@@ -82,6 +82,7 @@ Assignment1_Module2/
 
 ---
 
+for more : https://drive.google.com/drive/folders/1NtIUcxZDHEhfcjSfYEYCQQ95sS_0AVbX?usp=drive_link
 ## 🧠 Notes
 
 - Written in Python 3.
